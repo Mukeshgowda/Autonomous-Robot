@@ -3,11 +3,11 @@ The Project is construction of an autonomous robot that finds its destination it
 
 Implemented concurrent behavior based strategy of an autonomous mobile robot based on touch sensors, IR sensors and the micro-controller.
 
-I have used,
+Hardware components used to program and optimize Robot behavior are,
 * 2x Sharp ir-distance sensors
 * 2x micro switches
 * 2x remote control receiver sensors
 * 1x chassis with three motors, 
-to program and optimize Robot behavior.
 
-![Task](Task.jpg)
+
+![Task](Task.JPG)
